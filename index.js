@@ -29,7 +29,7 @@ const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
     database: "demo",
-    password: "T@H@mysql4879"
+    password: ""
 });
 
 // to get count of all user
